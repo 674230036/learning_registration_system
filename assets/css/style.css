@@ -1,0 +1,7 @@
+body { background:#f5f7fb; font-family:Tahoma,Arial,sans-serif; }
+.card { border:0; border-radius:16px; box-shadow:0 5px 20px rgba(0,0,0,.06); }
+.hero { background:linear-gradient(135deg,#0d6efd,#6f42c1); color:#fff; border-radius:20px; padding:36px; }
+.stat { border-radius:16px; padding:22px; background:#fff; box-shadow:0 5px 20px rgba(0,0,0,.05); }
+.course-card { transition:.2s; }
+.course-card:hover { transform:translateY(-3px); }
+.badge-soft { background:#e8f1ff; color:#0d6efd; }
